@@ -5,5 +5,5 @@ def reverse_each_word(array)
   end
 end
 
-myArray = "This is a ruby program"
+myArray = "This is a learn lab"
 reverse_each_word(myArray)
